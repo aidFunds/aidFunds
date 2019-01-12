@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class getController {
     @RequestMapping("/")
     public String getMessage() {
-        return "Greetings from aidFunds Organization!";
+        return "Greetings from aidFunds Organization! new world begins";
     }
 }
